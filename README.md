@@ -1,2 +1,2 @@
 # exercises2023
-weekly challenges
+weekly challenges exercises proposed by Mouredev.
